@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Journal</string>
+    <string name="id">ID</string>
+    <string name="food_items">Food Items</string>
+    <string name="date">Date</string>
+    <string name="calories">Calories</string>
+    <string name="textview4">Sugar Quantity</string>
+    <string name="additionalInfoText">My Notes</string>
+    <string name="addButton">addButton</string>
+
+    <string name="openJournal">Enter your Food Journal</string>
+    <string name="logoDesc">Logo Description</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="createNote">Create note</string>
+    <string name="updateNote">Update note</string>
+    <string name="createID">ID…</string>
+    <string name="createFoodItems">Food Items…</string>
+    <string name="createCalories">Calories…</string>
+    <string name="createDate">Date…</string>
+    <string name="createSugarQuantity">Sugar Quantity…</string>
+    <string name="createAdditionalInfo">Additional info…</string>
+    <string name="cancelOption">Cancel</string>
+    <string name="saveOption">Save</string>
+    <string name="editButton">Edit button</string>
+    <string name="deleteButton">Delete button</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="deleteMessage">Are you sure you want to delete</string>
+    <string name="title_activity_add_note">AddNoteActivity</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
